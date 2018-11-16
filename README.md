@@ -13,3 +13,4 @@ Filter is modification of the pixel value that use more than 1 pixel to compute 
   * Median filter
   * Weight Median filter
 
+** You can find more information in PDF file.
